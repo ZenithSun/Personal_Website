@@ -68,8 +68,8 @@ body{
     /* background-color: #eee; */
 
     /* Add Background */
-    background: var(--body-gradient-color), var(--background-image) center no-repeat;
-    background-size: cover;
+    background: var(--body-gradient-color), var(--background-image) center/cover no-repeat;
+    /* background-size: cover; */
     -webkit-background-size: cover;
     
     width: 100%;
