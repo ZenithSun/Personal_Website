@@ -10,7 +10,7 @@
     --theme-ball-transform: translateX(0rem);
     --theme-label-background-color:rgba(238, 236, 236);
     --body-gradient-color: linear-gradient(to bottom, rgba(0,0,0,.8), rgba(0,0,0,.5));
-    --background-image: url("images/Dark_Background_Reduced.jpg");
+    --background-image: url("images/Dark_Background_Reduced.png");
     /* --background-image: url("#"); */
     --header-container-color: white;
     --box-shadow-color:rgba(248, 246, 246, 0.3);
@@ -29,7 +29,7 @@
     --theme-ball-color:rgb(255, 255, 255);
     --theme-ball-transform: translateX(1.8rem);
     --body-gradient-color: linear-gradient(to bottom, rgba(238, 236, 236, 0.8), rgba(238, 236, 236, 0.5));
-    --background-image: url("images/test.jpg");
+    --background-image: url("images/Light_Background_Reduced.png");
     /* --background-image: url("#"); */
     --header-container-color: rgb(70, 70, 70);
     --box-shadow-color:rgba(0,0,0,0.1);
