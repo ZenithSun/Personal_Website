@@ -69,7 +69,8 @@ body{
 
     /* Add Background */
     background: var(--body-gradient-color), var(--background-image) center no-repeat;
-	background-size: cover;
+    background-size: cover;
+    -webkit-background-size: cover;
     
     width: 100%;
     height: 100vh;
@@ -78,8 +79,8 @@ body{
     margin-top: 5rem;
     justify-content: center;
     padding: 0rem 1.5rem;
-    overflow: hidden;
-
+    overflow-x: hidden;
+    overflow: scroll;
     /* transition: all 1s; */
 }
 .themeCheck {
