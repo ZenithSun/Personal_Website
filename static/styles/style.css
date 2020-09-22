@@ -29,7 +29,7 @@
     --theme-ball-color:rgb(255, 255, 255);
     --theme-ball-transform: translateX(1.8rem);
     --body-gradient-color: linear-gradient(to bottom, rgba(238, 236, 236, 0.8), rgba(238, 236, 236, 0.5));
-    --background-image: url("images/Light_Background_Reduced.jpg");
+    --background-image: url("images/test.jpg");
     /* --background-image: url("#"); */
     --header-container-color: rgb(70, 70, 70);
     --box-shadow-color:rgba(0,0,0,0.1);
